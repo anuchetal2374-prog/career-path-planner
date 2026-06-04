@@ -7,4 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 )
-Commit directly to main. Tell me when done! 🎯You've used 90% of your session lim
